@@ -21,3 +21,7 @@ You may also see any lint errors in the console.
 
 ###
 some works still needs to be done on the cards to style text in the right positions
+
+
+##TODO:
+move the api call to the parent component to fetch the data only once
