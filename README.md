@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Purchases
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+shows a table of purchases on desktop or purchase cards on mobile
 
 ## Available Scripts
 
